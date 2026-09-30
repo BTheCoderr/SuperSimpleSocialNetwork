@@ -1,5 +1,11 @@
 # Super Simple Social Network (SSSN)
 
+<!-- repo-intro:start -->
+**Project snapshot:** A full-stack social-network learning project covering authentication, post creation and editing, reactions, user-specific feeds, and a MySQL-backed API.
+
+**What it demonstrates:** React · TypeScript · Node/Express · MySQL · authentication and CRUD.
+<!-- repo-intro:end -->
+
 ## Description
 
 SSSN is a simple social network application built with React, TypeScript, and MySQL. It allows users to sign up, log in, create posts, like and dislike posts, and view posts from other users.
